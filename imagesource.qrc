@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>SI.png</file>
+        <file>sss.png</file>
+    </qresource>
+    <qresource prefix="/Icons">
+        <file>help.ico</file>
+        <file>UnityConverter.ico</file>
+        <file>about.ico</file>
+        <file>quit.ico</file>
+        <file>si.ico</file>
+        <file>Units.ico</file>
+    </qresource>
+</RCC>
